@@ -1,0 +1,2 @@
+SDL2 City Simulation
+A self-playing city simulation that evolves from basic streets into a complete urban environment with buildings, water features, and autonomous vehicles. Built with SDL2 and C++, this project uses procedural generation and simplified cellular automata techniques to create organic city growth patterns, animated water effects, and realistic traffic movement, all rendered with detailed pixel art visuals.
